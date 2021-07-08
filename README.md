@@ -1,10 +1,23 @@
-Notes app
-=========
+Rio's Pieces of Eight (Notes app)   
+----
 
-# Team
-* Flora, Lou B, Lou R, David.
+- First Javascript group project completed during week 7 of the Makers bootcamp (3 full days). The project is written in vanilla javascript with no external libraries/frameworks
+- We wrote our own testing framework that runs like Jasmine in the browser
+- Team members: [@louballantyne](https://github.com/louballantyne), [@loushark](https://github.com/loushark), [@dmgreaves](https://github.com/dmgreaves) and myself
 
-# Notes app user stories
+
+How to setup the code
+----
+
+- Clone this repo
+- To run the app in the browser open `UI/index.html` 
+- To see the testing framework open `specRunnerNotebook.html` and  `specRunnerNotes.html` in the browser
+
+
+Functionality
+----
+- The app has the functionality for the following user stories:
+
 
 ```
 As a programmer
@@ -36,12 +49,6 @@ I can refresh the page and still see my notes
 So I can remember what I took down
 ```
 
-
-
-
-     Input         |      Output
-notebook.create()  |       note
-
-
-When you click on an abbreviated note you hide all the other div elements
-
+Reflection
+----
+- To add styling with more time
